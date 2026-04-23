@@ -24,7 +24,10 @@ Github organization for all the stuff related to CNStudio™
 </a>
 
 ## Devs
-- <div> <img align="center" width="32" height="32" style="margin-right:5px;" src="https://avatars.githubusercontent.com/u/39493738"/> <a href="https://github.com/Goldenapple3619">Goldenapple3619</a> </dib>
+
+|||
+|:---:|:---|
+| [![](https://avatars.githubusercontent.com/u/39493738?s=32)](https://github.com/Goldenapple3619) | [Goldenapple3619](https://github.com/Goldenapple3619) |
 
 ## Links
 
