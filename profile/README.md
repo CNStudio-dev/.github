@@ -3,8 +3,8 @@
 <a href="https://github.com/CNStudio-dev">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goldenapple3619/CNEngine/refs/heads/dev/assets/images/banner_dark_XL.png">
-  <img alt="CNEngine" src="https://raw.githubusercontent.com/Goldenapple3619/CNEngine/refs/heads/dev/assets/images/banner_XL.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CNStudio-dev/.github/refs/heads/main/assets/banner.png">
+  <img alt="CNEngine" src="https://raw.githubusercontent.com/CNStudio-dev/.github/refs/heads/main/assets/banner.png">
 </picture>
 
 </a>
